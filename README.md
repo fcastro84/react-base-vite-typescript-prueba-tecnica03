@@ -25,7 +25,6 @@ Primera iteración:
 
 - Evita que se haga la búsqueda continuamente al escribir (debounce)
 
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
